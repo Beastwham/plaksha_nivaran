@@ -1,4 +1,3 @@
-# plaksha_projects_chatbot.github.io
 Hi, welcome to our website! 
 
 We (Prashant and Stuti) are working on creating a chatbot named Nivaran as a part of our learning process at Plaksha University's Technology Leadership Programme. This website is currently being built. Here's the NABC Analysis of our project:
